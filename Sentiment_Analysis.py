@@ -1,3 +1,5 @@
+# the code analyses the degree of how positive or negativ the given tweet with an input-word is.
+
 import tweepy
 from textblob import TextBlob
 # TextBlob is a Natural Language Processing library
